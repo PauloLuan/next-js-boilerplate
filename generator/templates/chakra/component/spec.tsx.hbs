@@ -1,0 +1,21 @@
+import React from 'react'
+import { render, screen } from 'utils/test-utils'
+
+import { {{pascalCase name}} } from '.'
+
+const props: {{pascalCase name}}Props = {
+  name: 'Paulo Luan'
+}
+
+describe('{{pascalCase name}} Page', () => {
+  it('should renders {{pascalCase name}} page correctly', () => {
+    const { asFragment } = render(<{{pascalCase name}} {...props}/>)
+    expect(asFragment()).toMatchSnapshot()
+  })
+
+  it("should find the {{pascalCase name}} test id and it's mindingo's class", () => {
+    const { getByTestId } = render(<{{pascalCase name}} {...props}/>)
+    const result = getByTestId('{{pascalCase name}}').textContent
+    expect(result).toEqual('{{kebabCase name}}')
+  })
+})
