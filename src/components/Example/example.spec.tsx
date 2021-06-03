@@ -6,6 +6,8 @@ describe('<Example />', () => {
   it('should render the heading', () => {
     render(<Example />)
 
-    expect(screen.getByRole('heading', { name: /Example/i })).toBeInTheDocument()
+    expect(
+      screen.getByRole('heading', { name: /Example/i })
+    ).toBeInTheDocument()
   })
 })
