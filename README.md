@@ -9,8 +9,8 @@ This is my [Next.js](https://nextjs.org/) boilerplate
 </p>
 
 <p align="center">
-    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/main.yml"><img src="https://img.shields.io/github/workflow/status/pauloluan/next-js-boilerplate/CI Checks?style=for-the-badge"></a>
-    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/main.yml"><img src="https://forthebadge.com/images/badges/it-works-why.svg"></a>
+    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/ci.yml"><img src="https://img.shields.io/github/workflow/status/pauloluan/next-js-boilerplate/CI Checks?style=for-the-badge"></a>
+    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/ci.yml"><img src="https://forthebadge.com/images/badges/it-works-why.svg"></a>
 </p>
 
 ## 📝 Minimal Requirements
