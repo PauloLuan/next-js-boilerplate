@@ -1,7 +1,7 @@
 import { Flex } from '@chakra-ui/react'
 
 export interface ExampleProps {
-  name: string
+  name?: string
 }
 
 export const Example = ({ name }: ExampleProps) => {
