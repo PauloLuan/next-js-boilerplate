@@ -1,6 +1,21 @@
-## Nextjs Boilerplate
+## 💡 Introduction
 
 This is my [Next.js](https://nextjs.org/) boilerplate
+
+<span id="top"></span>
+
+<p align="center">
+    <a href="#"><img src="https://github.com/pauloluan/assets/blob/master/back.png?raw=true" width="100"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/main.yml"><img src="https://img.shields.io/github/workflow/status/pauloluan/next-js-boilerplate/CI Checks?style=for-the-badge"></a>
+    <a href="https://github.com/PauloLuan/next-js-boilerplate/actions/workflows/main.yml"><img src="https://forthebadge.com/images/badges/it-works-why.svg"></a>
+</p>
+
+## 📝 Minimal Requirements
+
+- NodeJs 14.x
 
 ## Getting Started
 
@@ -52,9 +67,11 @@ This project uses:
 - [Prettier](https://prettier.io/)
 - [Eslint](https://eslint.org/)
 
+This project was inspired and extended from [nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate)
+
 ## :pencil: Author
 
-Inspired and extended from [nextjs-with-chakra-ui-boilerplate](https://github.com/Lukazovic/nextjs-with-chakra-ui-boilerplate)
+Paulo Luan
 
 <table>
   <tr>
