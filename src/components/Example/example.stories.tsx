@@ -1,8 +1,5 @@
 import React from 'react'
-import {
-  Example,
-  ExampleProps
-} from '.'
+import { Example, ExampleProps } from '.'
 
 export default {
   component: Example,
