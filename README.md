@@ -7,7 +7,7 @@ This is my [Next.js](https://nextjs.org/) boilerplate
 To create a project from this boilerplate run:
 
 ```bash
-yarn create next-app MY_PROJECT_NAME --example https://github.com/pauloluan/nextjs-boilerplate
+yarn create next-app chakra-studies --example https://github.com/PauloLuan/next-js-boilerplate
 ```
 
 Then, run the development server:
